@@ -1,4 +1,4 @@
-module github.com/nazhard/go-random-user-api
+module github.com/nazhard/go-simple-crud
 
 go 1.21.2
 
